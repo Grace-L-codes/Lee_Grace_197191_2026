@@ -9,14 +9,14 @@ I selected this code because despite the fact that it does not work completly as
 The third p5.js code I have uploaded is a green and purple rectangle pattern that creates a spiraling effect out of rectangles and resets when clicked by the mouse. This code is from week 6. This code works by drawing the rectangles with varibles that store their sizes, (sizeX and sizeY), an incrementation statement (sizeX ++ and sizeY ++) then continusiously adds 1 to sizeX and sizeY so as the code itterate the new rectangles drawn are slightly larger than the prevoius. A rotate funtion has been added to each rectangle and is used on either rotateVari and rotateSpin variables. The incrementation statements rotateVari ++ and rotateSpin -=1 adding 1 or removeing 1 to each varible respectivly, adding or subtracting one degree of rotation to the rectangles. Therefore each recangle is redrawn at a slightly differnt angle than the last which creates the circle effect. Becuase roatateVari is being added to, and rotateSpin is being subtracted from, the rectangles rotate in differnt directions. The translate funtion has been used to place the rectangles in their respective places by selecting coordinates for each rectangle. The push() and pop() opperators have been added to essentially break up the code, they create a start and stop around differnt parts of the code. The mousePressed funtion at the bottom re-draws the background in black and re-sets the size of sizeX and sizeY to their originals so that the output is cleared and and code starts again from the start when the mouse is clicked.
 I selected this code because I think that the output is astethically pleasing and I particularly like the mouse clicked reset. I feel this is where my use of commenting, variables, and funtions were best used in p5.js. 
 
-The first touchdesigner output I have uploaded is a noise output that creates a moving glowy green effect, designed to look like the sea/water
+The first touchdesigner output I have uploaded is a noise output that creates a moving glowy green effect, designed to look like the sea/water. This output is from week 9.
 This output works by
 I selected this code because
 
-The second touchdesigner output I have uploaded is a feeback loop that creates two cicles that rotate in oppisite directions
+The second touchdesigner output I have uploaded is a feeback loop that creates two cicles that rotate in oppisite directions. This output is from week 9.
 This output works by
 I selected this code because
 
-The third touchdesigner output I have uploaded is a pattern of purple circles that is animated
+The third touchdesigner output I have uploaded is a pattern of purple circles that is animated. This output is from week 8.
 This output works by
 I selected this code because
