@@ -1,10 +1,9 @@
 # Lee_Grace_197191_2026
 
-The first p5.js code I have uploaded is a for loop that creates multiple circles. This code works by storing the using the variable radius to draw a circle that has a radius of 10, then as the loop continues to itterate, because of the radius += 10 line in the for loop, it adds 10 to the radius of the circle, therefore drawing a new circle that is larger than the previous circle. This will continue untill the radius is larger than or equal to width/2, when the radius < width/2, the for loop will stop drawing circles.
-I selected this code because
+The first p5.js code I have uploaded is a for loop that creates multiple circles. This code works by storing the using the variable radius, to draw a circle that has a radius of 10, then as the loop continues to itterate, because of the radius += 10 line in the for loop, it adds 10 to the radius of the new circle it has to draw, therefore drawing a new circle that is larger than the previous circle. This will continue untill the radius is larger than or equal to width/2, when the radius > width/2, the for loop will stop drawing circles.
+I selected this code because I like how clean and accessible the for loop is, if you wanted to change the size of the circles, or how many circles there are, you could do so reasonably easlily by simply changing the radius size in the for loop line without worring about breaking the rest of the code. 
 
-The second p5.js code I have uploaded
-This code works by
+The second p5.js code I have uploaded is a rotate and translate code that creates a green spiral pattern using rectangles. This code works by drawing a rectangle with varibles that store its size (sizeX and sizeY), a if statement then contiusously removes 1 from sizeX and sizeY starting from their set 300 as the code itterates, as long as sizeX and sizeY are greater than 0, making the rectangles the output draws smaller every time. A rotate funtion has been added and is used on the varible rotateVari, in the same if statement that removes 1 from sizeX and sizeY, 1 is added to rotateVari, adding one degree of rotation to the angle of the rectangle. Therefore the each rectangle is redrawn at a slightly differnt angle than the last which creates the circle effect.
 I selected this code because
 
 The third p5.js code I have uploaded
