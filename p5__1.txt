@@ -1,1 +1,9 @@
-﻿https://editor.p5js.org/Grace_L/sketches/5rFCL7fQW
+
+for loop, circles:
+https://editor.p5js.org/Grace_L/sketches/58z5x2IWx
+
+rotate/translate, green rectangles:
+https://editor.p5js.org/Grace_L/sketches/5rFCL7fQW
+
+rotate/translate, green and purple:
+https://editor.p5js.org/Grace_L/sketches/gwPhQRgy-
